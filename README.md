@@ -95,6 +95,6 @@ hashflix/
 
 ## Créditos
 
-Desenvolvido por Josué e colaboradores.
+Desenvolvido por Josué e Hashtag Curso Python.
 
 ---
